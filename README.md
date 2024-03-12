@@ -1,6 +1,7 @@
 # StockStream
 
-https://stockstream.streamlit.app/
+# https://stockstream.streamlit.app/
+https://stocks-analysis-python-itnk5bdm4vmivrrqlycgfn.streamlit.app
 
 StockStream (Data Science, Real-time Analysis, Web App, Streamlit)
 Developed a data science-driven web application using Streamlit for real-time stock analysis and visualizations.
